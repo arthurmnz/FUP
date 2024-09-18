@@ -1,0 +1,5 @@
+valor = float(input())
+ganhador1 = float(valor * 0.46)
+ganhador2 = float(valor * 0.32)
+ganhador3 = float(valor * 0.22)
+print(f'{ganhador1:.2f}\n{ganhador2:.2f}\n{ganhador3:.2f}')
